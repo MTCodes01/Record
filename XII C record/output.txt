@@ -1,0 +1,100 @@
+
+STACK OPERATIONS
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice(1-5):1
+Enter item:4
+
+STACK OPERATIONS
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice(1-5):1
+Enter item:23
+
+STACK OPERATIONS
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice(1-5):1
+Enter item:43
+
+STACK OPERATIONS
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice(1-5):3
+
+Topmost item is 43
+
+STACK OPERATIONS
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice(1-5):2
+
+Popped item is 43
+
+STACK OPERATIONS
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice(1-5):4
+
+ 23 <-top
+4
+
+STACK OPERATIONS
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice(1-5):5
+Successfully Exited!
+===========================================================================
+STACK OPERATIONS
+1.Push
+2.Display
+3.Exit
+Enter your choice(1-3):1
+Enter Book no. to be inserted:1
+Enter Book name to be inserted:Wings of Fire
+Press Enter to continue...
+.
+.
+.
+.
+.
+STACK OPERATIONS
+1.Push
+2.Display
+3.Exit
+Enter your choice(1-3):2
+
+ [1, 'Wings of Fire'] <-top
+Press Enter to continue...
+.
+.
+.
+.
+.
+STACK OPERATIONS
+1.Push
+2.Display
+3.Exit
+Enter your choice(1-3):3
+Successfully Exited!
